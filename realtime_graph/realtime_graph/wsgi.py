@@ -1,5 +1,5 @@
 """
-WSGI config for realtime_graph project.
+WSGI config for realtime_graph   fff project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
